@@ -1,6 +1,6 @@
 [project]
 name = "log-record-loss-counter-py"
-version = "0.1.0"
+version = "0.1.1"
 description = "Logging handler wrapper that reports how many records an inner handler drops."
 requires-python = ">=3.10"
 dependencies = []
